@@ -52,6 +52,4 @@ HireSense is an AI-powered Application Tracking System (ATS) optimization tool t
 - `/frontend` - Contains static files (`index.html`, `dashboard.html`) served by the Express backend.
 - `/backend` - Contains the Express server (`server.js`) that proxies API requests to Groq.
 
-## License
 
-This project is licensed under the MIT License.
